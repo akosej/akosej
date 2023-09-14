@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Edgar Javier</h1>
 <h3 align="center">A multidisciplinary Full-Stack developer</h3>
-<img align="right" alt="Coding" width="400" src="https://github-readme-streak-stats.herokuapp.com/?user=akosej&" alt="akosej" />
+<img align="right" alt="Coding" width="400" src="https://github-readme-streak-stats.herokuapp.com/?user=akosej" alt="akosej" />
 
 - 💬 Ask me about ** GO, React, APIs, Linux, Docker **
 
