@@ -1,7 +1,6 @@
 <h1 align="center">Hi 👋, I'm Edgar Javier</h1>
 <h3 align="center">A multidisciplinary Full-Stack developer</h3>
-<img align="right" alt="Coding" width="400" src="https://github-readme-stats.vercel.app/api?username=akosej&show_icons=true&locale=en" alt="akosej" />
-
+<img align="right" alt="Coding" width="400" src="https://github-readme-streak-stats.herokuapp.com/?user=akosej&" alt="akosej" />
 
 - 💬 Ask me about ** GO, React, APIs, Linux, Docker **
 
@@ -19,4 +18,5 @@
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=akosej&show_icons=true&locale=en&layout=compact" alt="kimjayden" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=akosej&" alt="akosej" /></p>
+<p><img  align="center" src="https://github-readme-stats.vercel.app/api?username=akosej&show_icons=true&locale=en" alt="akosej" />
+</p>
