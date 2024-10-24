@@ -1,4 +1,4 @@
-<h1 align="center">Hi there! 👋 I'm Edgar Javier - DevOps</h1>
+<h1 align="center">Hi there! 👋 I'm Edgar Javier</h1>
 <h3 align="left">Languages and Tools:</h3>
 <p align="left">
   <a href="https://golang.org/" target="_blank" rel="noopener noreferrer">
@@ -29,7 +29,7 @@
   <img align="left" alt="Coding" src="https://github-readme-stats.vercel.app/api/top-langs/?username=akosej&layout=compact" alt="akosej" />
 </p>
 
-<img align="center" src="https://github-readme-stats.vercel.app/api?username=akosej&show_icons=true&locale=en" alt="akosej" />
+<img align="center" src="https://github-readme-stats.vercel.app/api?username=akosej&show_icons=true&locale=es" alt="akosej" />
 <p align="center">
   <img align="right" alt="Coding" width="400" src="https://github-readme-streak-stats.herokuapp.com/?user=akosej" alt="akosej" />
 </p>
