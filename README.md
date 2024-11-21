@@ -17,7 +17,3 @@
 [![trophy](https://github-profile-trophy.vercel.app/?username=akosej&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
 
 
-
-![Vaunt Badge](https://api.vaunt.dev/v1/github/entities/akosej/contributions?format=svg&private=true)  
-
-
