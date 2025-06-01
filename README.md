@@ -6,8 +6,6 @@
 
 ---
 
-### 🟩 Mi Actividad en GitHub
-
 <p align="center">
   <a href="https://git.io/streak-stats">
     <img src="https://streak-stats.demolab.com?user=akosej&theme=transparent&hide_border=true&card_width=950" alt="GitHub Streak">
